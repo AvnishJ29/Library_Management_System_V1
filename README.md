@@ -16,7 +16,6 @@ A web-based library management system built with Flask, SQLite, and HTML (Jinja 
 - **Backend**: Flask (Python)
 - **Frontend**: HTML, CSS, Bootstrap (via Jinja2 templates)
 - **Database**: SQLite
-- **Authentication**: Flask-Login
 
 ### 1. Clone the repository
 ```bash
